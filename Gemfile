@@ -71,5 +71,5 @@ gem 'bootstrap', '4.0.0.alpha6'
 gem 'simple_form'
 gem 'devise'
 gem 'figaro'
-gem 'carrierwave', '~> 2.0'
+gem 'carrierwave', '~> 2.1'
 gem "fog-aws"
